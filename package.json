@@ -1,0 +1,22 @@
+{
+  "name": "angbull",
+  "version": "0.1.0",
+  "description": "Bulma Components for Angular2 & 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishpatel0720/AngBull.git"
+  },
+  "keywords": [
+    "AngBull"
+  ],
+  "author": "Ashish patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishpatel0720/AngBull/issues"
+  },
+  "homepage": "https://github.com/ashishpatel0720/AngBull#readme"
+}
